@@ -1,2 +1,6 @@
 /*
   Referrer-Policy: no-referrer
+  X-Frame-Options: DENY
+  X-Content-Type-Options: nosniff
+  Permissions-Policy: camera=(self), microphone=(self), geolocation=(), payment=(), usb=()
+  Strict-Transport-Security: max-age=31536000
