@@ -1,0 +1,10 @@
+# Hausrund – Meldeweg für Sicherheitslücken (RFC 9116)
+# PLATZHALTER: Eine eigene Sicherheits-Adresse des Betreibers steht noch nicht fest (Firmenangaben/Impressum offen).
+# Bis dahin führt der Kontakt auf die Seite mit dem aktuellen Meldeweg. Adresse eintragen, sobald sie feststeht,
+# und das Ablaufdatum spätestens alle 6 Monate verlängern (supabase/tests/anbieter-test.js prüft es).
+# Domain: Veröffentlichung unter hausrund-app.github.io [prüfen bei Umzug auf eine eigene Domain].
+Contact: https://hausrund-app.github.io/sicherheit-melden
+Expires: 2027-05-11T00:00:00.000Z
+Preferred-Languages: de, en
+Policy: https://hausrund-app.github.io/sicherheit-melden
+Canonical: https://hausrund-app.github.io/.well-known/security.txt
